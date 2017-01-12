@@ -144,7 +144,10 @@
             "flags": 0, 
             "guid": "N*idMW}vMo", 
             "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
-            "tags": []
+            "tags": [
+                "Free", 
+                "level-1"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -158,7 +161,378 @@
             "flags": 0, 
             "guid": "IpS7K=o9GE", 
             "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
-            "tags": []
+            "tags": [
+                "Free", 
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "How do you ask someone's name?", 
+                "Build sentences with Yocha and learn how!", 
+                "https://app.ninchanese.com/stage/grammar/227", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "mW6<^}},8>", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "Free"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Introduce yourself", 
+                "Get to know the others a little", 
+                "https://app.ninchanese.com/stage/dialogue/4", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "A!PBiKU>gy", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "Free"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Basic Sentence Order: S + V + 0", 
+                "3 words and you can make a sentence! Simple as that.", 
+                "https://app.ninchanese.com/stage/grammar/117", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "wu-.Y{#E:D", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Baimei asks", 
+                "Baimei wants to know what you are. Tell her!", 
+                "https://app.ninchanese.com/stage/dialogue/5", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "sp+HB6wPH5", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Numbers", 
+                "Once you know how to count up to 10, you actually know how to count up to 99!", 
+                "https://app.ninchanese.com/stage/grammar/46", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "pEY)EEXUJ[", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Standard Negation: S + 不 + V", 
+                "Where you learn to say no. NO, not that verb!", 
+                "https://app.ninchanese.com/stage/grammar/119", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "gF_K^Yb?l6", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Verbal adjectives", 
+                "Adjectives don't need verbs to function!", 
+                "https://app.ninchanese.com/stage/grammar/121", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "fm3nVO&}I/", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Talking about yourself", 
+                "Get to know a Nincha!", 
+                "https://app.ninchanese.com/stage/dialogue/6", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "MG#=0BO-O-", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Possession with 的", 
+                "There's your stuff, and then there's theirs. Learn to talk about what belongs to you.", 
+                "https://app.ninchanese.com/stage/grammar/123", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "fs3_<?N/jm", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "What do you do?", 
+                "They always ask that question, better know how to answer it! Meow", 
+                "https://app.ninchanese.com/stage/dialogue/7", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "u`OD(pX:x2", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Yes/No questions", 
+                "Start asking basic questions. Fire away!", 
+                "https://app.ninchanese.com/stage/grammar/125", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "fm+HJvp?92", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Where’s my credit card?", 
+                "It's always in the last pocket, ya know!", 
+                "https://app.ninchanese.com/stage/dialogue/8", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "dWtG7dJO)N", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Start a phone call", 
+                "Knowing how to deal with phones always comes in handy", 
+                "https://app.ninchanese.com/stage/dialogue/9", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "m.@dr$Rf0/", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Being able: 能 and 会", 
+                "Show off your skills!", 
+                "https://app.ninchanese.com/stage/grammar/37", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "n6_!Pu,<_~", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Do you want to go to the movies?", 
+                "Or how to invite someone to go catch a movie with you :)", 
+                "https://app.ninchanese.com/stage/dialogue/10", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "kMl]2+LAge", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Organizing your sentence structure", 
+                "There's a time and a place for everything", 
+                "https://app.ninchanese.com/stage/grammar/129", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "i&c@thou+_", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "When are you coming home?", 
+                "Explain what you'll be doing that afternoon", 
+                "https://app.ninchanese.com/stage/dialogue/11", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "sboDL;wX_r", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Standard Negation: S + 没 + V", 
+                "Saying \"you don't have\" and talking about actions that didn't happen in the past takes a special skill", 
+                "https://app.ninchanese.com/stage/grammar/33", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "d`IAQO$_J_", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Lupishu goes shopping with Baimei", 
+                "Ready, set, shop!", 
+                "https://app.ninchanese.com/stage/dialogue/13", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "wMNRr)YIXE", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Dates and times", 
+                "Learn to tell time and talk about dates", 
+                "https://app.ninchanese.com/stage/grammar/40", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "O$pkJ|r5p)", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Running into friends", 
+                "Or how to get introduced to your friend's nice looking friend", 
+                "https://app.ninchanese.com/stage/dialogue/15", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "Fn=5-w):@J", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Questions using 几多少什么怎么", 
+                "More complicated questions so you can pry all you want", 
+                "https://app.ninchanese.com/stage/grammar/39", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "dMCJkM/{9%", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Nincha, Lupishu and Baimei go to the restaurant.", 
+                "Chinese dishes are so delicious!", 
+                "https://app.ninchanese.com/stage/dialogue/14", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "Eo@5:.Nje<", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-1"
+            ]
         }
     ]
 }
