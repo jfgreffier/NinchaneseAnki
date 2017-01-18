@@ -19,7 +19,7 @@
                 "mult": 0
             }, 
             "maxTaken": 60, 
-            "name": "Default", 
+            "name": "NinchaneseOptions", 
             "new": {
                 "bury": true, 
                 "delays": [
@@ -32,8 +32,8 @@
                     4, 
                     7
                 ], 
-                "order": 1, 
-                "perDay": 10, 
+                "order": 0, 
+                "perDay": 2, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -44,12 +44,12 @@
                 "ivlFct": 1, 
                 "maxIvl": 36500, 
                 "minSpace": 1, 
-                "perDay": 100
+                "perDay": 3
             }, 
             "timer": 0
         }
     ], 
-    "desc": "", 
+    "desc": "Keep up with grammar and conversation by reviewing Ninchanese lessons.\n1-3 lessons review per day is probably far enough", 
     "dyn": 0, 
     "extendNew": 10, 
     "extendRev": 50, 
@@ -138,7 +138,7 @@
             "fields": [
                 "Your first sentence in Chinese", 
                 "Put the words you just learned in order", 
-                "Put the words you just learned in order", 
+                "https://app.ninchanese.com/stage/grammar/44", 
                 "grammar"
             ], 
             "flags": 0, 
@@ -532,6 +532,390 @@
             "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
             "tags": [
                 "level-1"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Very &amp; not very with 太", 
+                "A very simple word to give your opinion on everything: 太", 
+                "https://app.ninchanese.com/stage/grammar/47", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "M4KqWL7t{J", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "New places, new friends!", 
+                "Don't be shy!", 
+                "https://app.ninchanese.com/stage/dialogue/16", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "ur.!*,9D#4", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Expressing distances with 离", 
+                "Talk about how close or how far something is.", 
+                "https://app.ninchanese.com/stage/grammar/49", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "C;L};YVLi4", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Who lives the furthest?", 
+                "Baimei introduces Faust to Lupishu", 
+                "https://app.ninchanese.com/stage/dialogue/18", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "sHH):59t2.", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cause and effect with 因为", 
+                "It wasn't me! Talk cause and effect with 因为。。。所以", 
+                "https://app.ninchanese.com/stage/grammar/50", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "Dw9A!5MJ<=", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "I'm feeling ill!", 
+                "Is all that traveling getting to Nincha and Lupishu? It sure looks like it!", 
+                "https://app.ninchanese.com/stage/dialogue/19", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "x,;iJ8q;YQ", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Expressing \"a little bit\" (part 1)", 
+                "Want to show something happened briefly? Sound cute? 一下 is what you need!", 
+                "https://app.ninchanese.com/stage/grammar/61", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "d:VBAONroE", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Going to the Supermarket", 
+                "Or how to get someone to go with you grocery shopping", 
+                "https://app.ninchanese.com/stage/dialogue/20", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "hR9x<|<nnk", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Expressing “a little” (part 2)", 
+                "Doubling verbs is also a good way to show you want to do something briefly.", 
+                "https://app.ninchanese.com/stage/grammar/51", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "kLO~La]Tl&", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Grocery shopping", 
+                "Lupishu's happy to help Baimei with her shopping list.", 
+                "https://app.ninchanese.com/stage/dialogue/21", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "iz7HXVdU[[", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "The power of 吧 and 呢!", 
+                "Small sounds can go a long way, check it out!", 
+                "https://app.ninchanese.com/stage/grammar/52", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "B}rFjvg(+n", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Choosing a restaurant", 
+                "Picking where to go is the first step when eating out", 
+                "https://app.ninchanese.com/stage/dialogue/22", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "Bu9}zf?{mH", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Make comparisons with 比", 
+                "Everyone likes to compare themselves to others.", 
+                "https://app.ninchanese.com/stage/grammar/53", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "tVN}BsQNo1", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Talking about where you are with 在", 
+                "To express your location, 在 is your main ally, followed by a few key words!", 
+                "https://app.ninchanese.com/stage/grammar/60", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "hPZ@AM+T,g", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Going to the restaurant part 2", 
+                "Once you've ordered food, what else do you need? That's right, drinks!", 
+                "https://app.ninchanese.com/stage/dialogue/23", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "G1,x/Ct;Q&", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "All with 都", 
+                "Be nice, will ya? Share with everyone and think collective!", 
+                "https://app.ninchanese.com/stage/grammar/57", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "m>HOmf4#>.", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Buying a gift!", 
+                "Nincha wants to get someone a gift.", 
+                "https://app.ninchanese.com/stage/dialogue/24", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "mnFEsU$hMo", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "了 part 1: completed actions", 
+                "Meet 了, a very frequently used little word in Chinese", 
+                "https://app.ninchanese.com/stage/grammar/56", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "DHG*xXmfHs", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Taking a Chinese test", 
+                "Tests and exams are part of life. Learn to talk about how it went!", 
+                "https://app.ninchanese.com/stage/dialogue/25", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "c$wIIMw(D`", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "From ... to with 从……到", 
+                "Going from a place to another is usually a good starting point.", 
+                "https://app.ninchanese.com/stage/grammar/55", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "c>pW?4kV=*", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Getting directions", 
+                "It's always a good thing to ask for directions when you're not sure which way you're supposed to go!", 
+                "https://app.ninchanese.com/stage/dialogue/26", 
+                "dialogue"
+            ], 
+            "flags": 0, 
+            "guid": "m@[0mBt~#6", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Having choices with \"or\"", 
+                "When you need to say \"or\", there are two words in Chinese you can use: 还是 and 或者", 
+                "https://app.ninchanese.com/stage/grammar/59", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "E:L3glcIAQ", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "想 vs. 要", 
+                "Do you want or do you need? It's sometimes trickier to decide than you think!", 
+                "https://app.ninchanese.com/stage/grammar/54", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "q9g]ywD:[_", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Stage: Expressing \"and\"", 
+                "With the Ninchas, knowing how to say \"and\" is a must! These cats like to stick together!", 
+                "https://app.ninchanese.com/stage/grammar/48", 
+                "grammar"
+            ], 
+            "flags": 0, 
+            "guid": "vi+hyO;#NZ", 
+            "note_model_uuid": "befb021e-d777-11e6-985b-ac9e17f058be", 
+            "tags": [
+                "level-2"
             ]
         }
     ]
